@@ -128,7 +128,7 @@ if(expirydate>today):
     else:
         banner='figlet RXCE'
         system(banner)
-        #print("Hi!! Thanks for buying the hack")
+        print("Hi!! Thanks for buying the hack")
         print("Hi!!! thanks for trying our DEMO")
         print("----------Your play time-----------")
         print("11:00 AM- 11:30 AM")
